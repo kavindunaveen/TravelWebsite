@@ -7,16 +7,15 @@
     <title>home</title>
 
     <!-- Import Google Fonts -->
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap" rel="stylesheet">
 
-<!-- font awesome cdn link -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- font awesome cdn link -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
-<!--custom css file link-->
-<link rel="stylesheet" href="style.css">
-
-
-
+    <!-- custom css file link -->
+    <link rel="stylesheet" href="style.css">
+    <!-- swiper css file link -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css">
 
 </head>
 <body>
@@ -38,24 +37,22 @@
 </section>
 <!--header end-->
 
-
 <!--home section start-->
-
 <section class="home">
 
     <div class="swiper home-slider">
 
         <div class="swiper-wrapper">
 
-            <div class="swiper-slide slide" style="background:url(images/green.jpg) no-repeat">
+            <div class="swiper-slide slide" style="background:url(images/sl1.jpg) no-repeat">
               <div class="content">
                 <span>Explore, Discover, Travel</span>
-                <h3>Travel around the world</h3>
+                <h3>Travel around Sri Lanka</h3>
                 <a href="package.php" class="btn">Discover more..</a>
                 </div>
             </div>
 
-            <div class="swiper-slide slide" style="background:url(images/yellow.jpg) no-repeat">
+            <div class="swiper-slide slide" style="background:url(images/sl2.jpg) no-repeat">
               <div class="content">
                 <span>Explore, Discover, Travel</span>
                 <h3>Discover the new places</h3>
@@ -63,15 +60,13 @@
                 </div>
             </div>
 
-            <div class="swiper-slide slide" style="background:url(images/blue.jpg) no-repeat">
+            <div class="swiper-slide slide" style="background:url(images/sl3.jpg) no-repeat">
               <div class="content">
                 <span>Explore, Discover, Travel</span>
                 <h3>Make your tour worthwhile</h3>
                 <a href="package.php" class="btn">Discover more..</a>
                 </div>
             </div>
-
-       
 
         </div>
 
@@ -80,60 +75,6 @@
 
     </div>
 
-    
-</section>
-<!--home section ends-->
-
-<!--services section start-->
-<section class="services">
-    <h1 class="heading-title"> Our Services </h1>
-
-    <div class="box-container">
-
-        <div class="box">
-            <img src="" alt="">
-            <h3> Adventure</h3>
-        </div>
-
-        <div class="box">
-            <img src="" alt="">
-            <h3> Tour Guide</h3>
-        </div>
-
-        <div class="box">
-            <img src="" alt="">
-            <h3> Fire Camp</h3>
-        </div>
-
-        <div class="box">
-            <img src="" alt="">
-            <h3> Off Road</h3>
-        </div>
-
-        <div class="box">
-            <img src="" alt="">
-            <h3> Camping</h3>
-        </div>
-
-    </div>
-</section>
-<!--services section  end-->
-
-
-<!--home about section starts-->
-<section class="home-about">
-    <div class="image">
-       <img src="images/yellow.jpg" alt="">
-    </div>
-
-    <div class="content">
-        <h3>About Us</h3>
-        <p>nwfiwof wfiwf wfiwf wfiwf wfowpfwwfw wfiwef fw wfiwef
-        nwfiwof wfiwf wfiwf wfiwf wfowpfwwfw wfiwef nwfi jkjjjjjjfiwf wfojnojnoinoinoinowpfwwfw wfiwef nwfiwof wfiwf wfwwfw wfiwef 
-        
-        <a href="about.php" class="btn">Read more</a>
-        </p>
-    </div>
 </section>
 <!--home about section end-->
 
@@ -146,33 +87,33 @@
 
         <div class="box">
             <div class="image">
-                <img src="images/green.jpg" alt="">
+                <img src="images/Sinharaja.jpg" alt="">
             </div>
             <div class="content">
                 <h3>Adventure and Tour</h3>
-                <p>uohwejf wefouwenf wehofwef wowefnwoef wiefhwef ihwefnwef</p>
+                <p> Explore the Wilderness. Destination: Sinharaja Rainforest, Sri Lanka.</p>
                 <a href="book.php" class="btn">Book Now</a>
             </div>
         </div>
 
         <div class="box">
             <div class="image">
-                <img src="images/yellow.jpg" alt="">
+                <img src="images/apura1.jpg" alt="">
             </div>
             <div class="content">
-                <h3>Adventure and Tour</h3>
-                <p>uohwejf wefouwenf wehofwef wowefnwoef wiefhwef ihwefnwef</p>
+                <h3>Cultural Immersion</h3>
+                <p>Discover Ancient Civilizations in Sri Lanka. Destination:Anuradhapura.</p>
                 <a href="book.php" class="btn">Book Now</a>
             </div>
         </div>
 
         <div class="box">
             <div class="image">
-                <img src="images/green.jpg" alt="">
+                <img src="images/yaala.jpg" alt="">
             </div>
             <div class="content">
-                <h3>Adventure and Tour</h3>
-                <p>uohwejf wefouwenf wehofwef wowefnwoef wiefhwef ihwefnwef</p>
+                <h3>Safari Adventure</h3>
+                <p>Witness the Sri Lankan Wildlife. Destination:Yaala National Park.</p>
                 <a href="book.php" class="btn">Book Now</a>
             </div>
         </div>
@@ -189,8 +130,8 @@
 <section class="home-offer">
     <div class="content">
         <h3>Upto 50% OFF</h3>
-        <p>ouqeonjq qeiod qewhiod qewdfwqeoidqew wehiowe weidow efiwe wedfhoweqf 
-        diowef wefiowef jwef jowefn</p>
+        <p>Discover the wonders of our exclusive tour packages, now available at an unbeatable 50% discount! Embark on unforgettable journeys to exotic destinations, where breathtaking landscapes and captivating cultures await you. Whether you seek adrenaline-pumping adventures, serene beach getaways,
+         or enriching cultural experiences, our handpicked packages cater to every traveler's dream.</p>
         <a href="book.php" class="btn">Book Now</a>
     </div>
 </section>
