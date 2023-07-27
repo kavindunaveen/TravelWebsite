@@ -78,6 +78,61 @@
 </section>
 <!--home about section end-->
 
+<!--services section start-->
+<section class="services">
+    <h1 class="heading-title"> Our Services </h1>
+
+    <div class="box-container">
+
+        <div class="box">
+            <img src="images/hiking.png" alt="">
+            <h3> Adventure</h3>
+        </div>
+
+        <div class="box">
+            <img src="images/tour-guide.png" alt="">
+            <h3> Tour Guide</h3>
+        </div>
+
+        <div class="box">
+            <img src="images/bonfire.png" alt="">
+            <h3> Fire Camp</h3>
+        </div>
+
+        <div class="box">
+            <img src="images/jeep.png" alt="">
+            <h3> Off Road</h3>
+        </div>
+
+        <div class="box">
+            <img src="images/camping.png" alt="">
+            <h3> Camping</h3>
+        </div>
+
+    </div>
+</section>
+<!--services section  end-->
+
+
+<!--home about section starts-->
+<section class="home-about">
+    <div class="image">
+       <img src="images/logo2.png" alt="">
+    </div>
+
+    <div class="content">
+        <h3>About Us</h3>
+        <p>
+        At Wanderlusta, we are passionate about creating extraordinary travel 
+        experiences and unforgettable adventures. Our handcrafted itineraries cater to every 
+        traveler's unique aspirations, whether you seek thrilling escapades, authentic cultural 
+        encounters, or serene getaways. We are committed to providing you with the best.
+        <a href="about.php" class="btn">Read more</a>
+        </p>
+    </div>
+</section>
+<!--home about section end-->
+
 
 <!--home package section starts-->
 <section class="home-packages">
